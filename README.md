@@ -1,2 +1,2 @@
 # DDM-I
-è o repositório para a matéria de DDM
+É o repositório para a matéria de DDM
